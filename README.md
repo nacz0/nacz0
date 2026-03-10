@@ -99,7 +99,7 @@ while leveraging AI assistance for routine implementation tasks.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nacz0&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacz0&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacz0&layout=compact&hide=jupyter%20notebook)
 
 ---
 
