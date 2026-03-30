@@ -1,108 +1,131 @@
-# Hi 👋 I'm Nataniel Machowski
+# Hi, I'm Nataniel Machowski
 
-🎓 Computer Science student  
-💻 Interested in C++, backend systems, developer tools and practical machine learning
+Computer Science student focused on **backend development**, **Python**, **JavaScript**, and **cloud-based applications**.
 
-I enjoy building software systems and tools, especially projects related to
-desktop applications, developer tooling and experimentation with AI-assisted
-development workflows.
+I build practical projects around APIs, cloud integrations, containerized environments, and AI-powered applications.
 
 ---
 
-## 🛠 Technologies I Work With
+## Tech Stack
 
 **Languages**
-- C++
 - Python
-- TypeScript
-- C#
 - JavaScript
+- TypeScript
+- C++
+- C#
 
-**Tools & Technologies**
-- Docker
+**Backend / Web**
 - FastAPI
-- CMake
+- REST APIs
+- HTML / CSS / JavaScript
+- Angular
+
+**Cloud / Tools**
+- Docker
+- AWS
+- Google Cloud
+- SQLite
 - Git
 - Linux
 
-**Areas of interest**
-- systems programming
-- desktop applications
-- developer tools
-- machine learning
-- local AI / LLM tools
+---
+
+## Featured Projects
+
+### [Cloud_AI_Project](https://github.com/nacz0/Cloud_AI_Project)
+A **multi-cloud AI web application** that connects image analysis, prompt generation, and image generation into one workflow.
+
+**Highlights**
+- backend built with **FastAPI**
+- frontend built with **HTML, CSS, and JavaScript**
+- **SQLite** as the data layer
+- integration with **AWS Rekognition**
+- integration with **Google Cloud Vertex AI**
+- end-to-end AI pipeline from uploaded image to generated result
+
+**What it shows**
+- backend API development
+- cloud service integration
+- practical AI workflow design
+- ability to connect multiple providers in one application
 
 ---
 
-## 🚀 Featured Projects
+### [Lokalna-Instalacja-LLM](https://github.com/nacz0/Lokalna-Instalacja-LLM)
+A project focused on **local LLM deployment**, **Docker-based environments**, and practical AI integrations.
 
-### Fastener
-High-performance C++ GUI library for building desktop applications.
+**Highlights**
+- local AI environment using **Docker**
+- integration with **Ollama**, **Open WebUI**, and pipelines
+- project structure with documentation, scripts, and tests
+- practical setup for self-hosted LLM experimentation
 
-### Fin
-Lightweight IDE written in C++ and built on top of Fastener.
-
-### Looker
-Desktop file explorer written in C++17 using the Fastener GUI library.
-
-### Lokalna-Instalacja-LLM
-Software engineering project focused on local LLM deployment and integration.
-
-### pumpkin_knn_api
-Machine learning API using a k-NN classifier with Dockerized backend.
+**What it shows**
+- experience with containerized environments
+- backend/tooling mindset
+- AI system integration
+- ability to structure and document technical projects
 
 ---
 
-## 🧠 Development Philosophy
+### [pumpkin_knn_api](https://github.com/nacz0/pumpkin_knn_api)
+A **machine learning web application** exposing a classification model through a backend API.
 
-I enjoy building tools and systems that are practical and extensible.
-Many of my projects focus on creating reusable components that can serve
-as a foundation for other software.
+**Highlights**
+- backend and client structure in one project
+- containerized using **Docker** and **docker-compose**
+- practical ML application packaging
+- combines model logic with usable application structure
 
-For example, the **Fastener** GUI library was created as a base for other
-desktop applications, which later led to projects such as **Fin** (a lightweight
-IDE) and **Looker** (a file explorer).
-
-My goal is to design projects that are not only functional, but also
-structured in a way that allows experimentation, iteration and reuse.
-
----
-
-## 🔗 Project Ecosystem
-
-Some of my projects are connected and built on top of each other:
-
-Fastener → C++ GUI library  
-Fin → lightweight IDE built using Fastener  
-Looker → desktop file explorer based on Fastener
-
-This approach allows experimenting with the library in real applications
-while continuously improving the underlying framework.
+**What it shows**
+- backend-oriented project delivery
+- API-first thinking
+- ability to combine ML logic with application development
+- experience with full project setup, not just isolated code
 
 ---
 
-## 🤖 Development Workflow
+### [Fastener](https://github.com/nacz0/Fastener)
+A **high-performance C++ GUI library** for desktop applications.
 
-Some projects were developed using an **agentic coding workflow with AI tools
-(Codex)**.
+Although my main focus is backend and cloud-oriented development, this project reflects strong fundamentals in software architecture, reusable API design, and performance-focused engineering.
 
-AI assistance was used to accelerate implementation and experimentation,
-while architecture, project structure, debugging, and integration were
-directed manually.
+**Highlights**
+- custom GUI library written in **C++17**
+- batched **OpenGL** rendering
+- explicit context API
+- reusable widgets and desktop tooling features
 
-This workflow allows focusing more on system design and iteration speed
-while leveraging AI assistance for routine implementation tasks.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nacz0&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacz0&layout=compact&hide=jupyter%20notebook)
+**What it shows**
+- strong programming fundamentals
+- reusable component design
+- larger-scale technical project structure
+- performance-oriented development
 
 ---
 
-## 📫 Contact
+## What I Focus On
 
-GitHub: https://github.com/nacz0
+- backend development with **Python**
+- web applications using **JavaScript / TypeScript**
+- **API design** and service integration
+- **cloud-based applications**
+- AI/ML features packaged as usable software
+- **Dockerized** development workflows
+
+---
+
+## Development Approach
+
+I enjoy building projects that are practical, structured, and deployment-oriented.
+
+My main interests are backend systems, cloud integrations, and applications that combine software engineering with AI services in a usable way.
+
+I also experiment with **AI-assisted development workflows**, using AI tools to accelerate implementation while staying responsible for architecture, debugging, integration, and final project structure.
+
+---
+
+## GitHub
+
+- [github.com/nacz0](https://github.com/nacz0)
