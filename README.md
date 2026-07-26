@@ -1,6 +1,6 @@
 # Hi, I'm Nataniel Machowski
 
-Computer Science student focused on **backend development**, **Python**, **JavaScript**, and **cloud-based applications**.
+Computer Science student focused on **software development**, **Python**, **JavaScript**, and **cloud-based applications**.
 
 I build practical projects around APIs, cloud integrations, containerized environments, and AI-powered applications.
 
